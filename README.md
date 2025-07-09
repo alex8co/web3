@@ -1,4 +1,4 @@
-# web3
+# web3 only
 GET TRUST
 
 ## Finance
